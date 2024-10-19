@@ -26,7 +26,7 @@
     "tiptap": "^1.27.1",
     "tiptap-extensions": "^1.29.1",
     "truncate-utf8-bytes": "1.0.2",
-    "vue": "^2.6.12",
+    "vue": "^3.0.0",
     "vue-select": "2.5.1",
     "vue-timeago": "^5.1.2",
     "vuedraggable": "2.20.0",
